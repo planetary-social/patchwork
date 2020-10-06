@@ -1,6 +1,6 @@
-# Patchwork
+# Planetary Desktop
 
-> A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+> A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). This is a open source planetary fork of [patchwork](https://github.com/ssbc/patchwork). 
 
 - Connect with friends without depending on any central servers.
 - Don't worry about spam, you only get messages from people you follow.
