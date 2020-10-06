@@ -1,36 +1,35 @@
 # Planetary Desktop
 
-> A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). This is a open source planetary fork of [patchwork](https://github.com/ssbc/patchwork). 
+> A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+> This is a open source planetary fork of [patchwork][https://github.com/ssbc/patchwork]. 
 
 - Connect with friends without depending on any central servers.
 - Don't worry about spam, you only get messages from people you follow.
-- Use Patchwork online or offline, the data you need is stored on your device.
+- Use planetary desktop online or offline, the data you need is stored on your device.
 - Sync messages with friends when you're on the same Wi-Fi network.
-- Keep secrets with private messages, which are *always* end-to-end encrypted.
+- Keep secrets with private messages, which are *always* eand-to-end encrypted.
 - Change and improve Patchwork however you'd like, it's free and open source.
 
 ## Usage
 
 ![Screenshot of Patchwork][screenshot]
 
-New to Scuttlebutt? Join the network by connecting to a [pub][pub].
+New to Planetary? We automatically add you to a planetary run [pub](pub) so you can
+can connect to people who are on planetary. We're part of a larger network so you can join 
+other pubs to find community run services. 
 
-1. Choose a pub from the [pub list][pub-list] and copy an invite code.
-2. Open Patchwork and select *Join Pub*.
-3. Paste the invite code and select *Redeem Invite*.
-
-You're done! Check out `#new-people` to see who else has recently joined.
+Check out `#new-people` to see who else has recently joined.
 
 ## Installation
 
-Most people should **[download Patchwork for Windows, macOS, or Linux][gh-dl]**.
+Most people should **[download Planetary Desktop for Windows, macOS, or Linux][gh-dl]**.
 
-Alternatively, you can install Patchwork with your favorite package manager.
+Alternatively, you can install planetary-desktop with your favorite package manager.
 
-- **[npm][npm]:** `npm install --global ssb-patchwork`
-- **[yarn][yarn]:** `yarn global add ssb-patchwork`
-- **[brew][brew]:** `brew cask install patchwork`
-- **[yay][yay]:** `yay -S ssb-patchwork`
+- **[npm][npm]:** `npm install --global planetary`
+- **[yarn][yarn]:** `yarn global add planetary`
+- **[brew][brew]:** `brew cask install planetary`
+- **[yay][yay]:** `yay -S planetary`
 
 Building from source? Check out [`INSTALL.md`][install] for more information.
 
@@ -47,6 +46,7 @@ terms.
 ## See Also
 
 - [patchbay][patchbay]
+- [patchwork][patchwork]
 - [ssb-server][ssb-server]
 - [manyverse][manyverse]
 
