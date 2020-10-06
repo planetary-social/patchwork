@@ -24,15 +24,6 @@ Check out `#new-people` to see who else has recently joined.
 
 Most people should **[download Planetary Desktop for Windows, macOS, or Linux][gh-dl]**.
 
-Alternatively, you can install planetary-desktop with your favorite package manager.
-
-- **[npm][npm]:** `npm install --global planetary`
-- **[yarn][yarn]:** `yarn global add planetary`
-- **[brew][brew]:** `brew cask install planetary`
-- **[yay][yay]:** `yay -S planetary`
-
-Building from source? Check out [`INSTALL.md`][install] for more information.
-
 ## Contributing
 
 Create a [new issue][new-issue] to report problems or request features. See
